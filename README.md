@@ -1,2 +1,2 @@
 # devopsrk
-Test for LU
+Raimonds Krauklis DevOps repozitorijs pamati iesācējiem
